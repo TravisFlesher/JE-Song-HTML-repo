@@ -1,1 +1,1 @@
-Extract the contents of the archive to view the JE Song webpage. Enjoy.
+Click the green "code" button above and "download ZIP", then extract the contents of the archive and view the JE Song webpage. Enjoy.
